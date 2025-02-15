@@ -1,0 +1,5 @@
+123 is not a perfect number
+345 is not a perfect number
+56 is not a perfect number
+78 is not a perfect number
+57 is not a perfect number
