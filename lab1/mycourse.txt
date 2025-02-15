@@ -1,0 +1,20 @@
+Course ID: CSE321
+Course Name: Introduction to Operating Systems
+Section: 14
+
+Course ID: CSE340 
+Course Name: Computer Architecture
+Section: 8
+
+Course ID: CSE423
+Course Name: Computer Graphics
+Section: 3
+
+Course ID: HUM102
+Course Name: Introduction to Philoshophy
+Section: 2
+
+Course ID: ANT101
+Course Name: Introduction to Anthropology
+Section: 4
+
